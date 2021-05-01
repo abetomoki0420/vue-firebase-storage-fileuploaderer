@@ -1,19 +1,14 @@
 # file-uploader
 
 ## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 1. Setup your Firebase Project Configuration
 
-### Compiles and minifies for production
+### 2. Let's Run
+
 ```
-yarn build
+npm install
+npm run dev
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
